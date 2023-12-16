@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kdorseyjr
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Kevin
+- 👀 I’m interested in Web Development and Data Science with ML
+- 🌱 I’m currently learning Python, JS/HTML/CSS and C++
+- 💞️ I’m looking to collaborate on ... Web and Data Analysis Projects
 - 📫 How to reach me ...
 
 <!---
